@@ -7,7 +7,7 @@ Computer Science & Applied Mathematics student at The University of Akron, inter
 ### Lunar Mining Rover
 C++ / Python / ROS 2
 Robotics project focused on autonomous systems and
-communication between microcontrollers.
+communication between microcontrollers. [Source Repository](https://github.com/UA-NASA-Robotics)
 
 
 ### 2D Engine
